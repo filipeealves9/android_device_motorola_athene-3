@@ -136,9 +136,6 @@ PRODUCT_PACKAGES += \
     FMRadio \
     libfmjni
 
-PRODUCT_PACKAGES += \
-    IMSEnabler
-
 # GPS
 PRODUCT_PACKAGES += \
     gps.msm8952 \
